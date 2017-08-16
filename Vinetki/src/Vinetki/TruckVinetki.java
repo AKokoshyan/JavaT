@@ -19,8 +19,7 @@ public class TruckVinetki extends Vinetki {
 	}
 
 	@Override
-	public
-	int getPrice() {
+	public int getPrice() {
 		return this.price;
 	}
 
